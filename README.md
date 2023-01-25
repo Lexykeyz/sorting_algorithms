@@ -1,2 +1,1 @@
-# sorting_algorithms
-New C project
+Solution to tasks on Sorting algorithms
